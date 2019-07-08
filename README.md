@@ -12,4 +12,4 @@ This returns the jobs that can be performed independely.
 
 Perform independent jobs and then get their dependent jobs.
 
-# I used ruby language and have used 'minitest' gem for writing tests.
+* I used ruby language and have used 'minitest' gem for writing tests.
